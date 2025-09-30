@@ -1,0 +1,5 @@
+install.packages("tidyverse")
+#install.packages("gapminder")
+#install.packages("quantmod")
+#install.packages("xts")
+install.packages("gridExtra")
